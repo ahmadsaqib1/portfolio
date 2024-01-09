@@ -15,7 +15,7 @@ const Project= (props) =>{
             <p>{props.text}</p>
             <div className="pro-btn">
                 <NavLink to={props.gitrepo} className="btn">
-                    Git<FaGithub />
+                    Github<FaGithub />
                 </NavLink>
                 <NavLink to={props.deployed} className="btn">
                     Deployed version

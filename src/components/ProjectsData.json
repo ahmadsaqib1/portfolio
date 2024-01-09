@@ -1,0 +1,46 @@
+[
+  {
+    "imgsrc": "../assets/project1.png",
+    "title": "Weather Dashboard",
+    "text": "This is an app that allows users to see the weather forecast for cities of their choosing.",
+    "gitrepo": "https://github.com/ahmadsaqib1/weather-dashboard.git",
+    "deployed": "https://ahmadsaqib1.github.io/weather-dashboard/"
+  },
+  {
+    "imgsrc": "../assets/project2.png",
+    "title": "Team Profile Generator",
+    "text": "This is an application that generates HTML files using input from a command-line interface.",
+    "gitrepo": "https://github.com/ahmadsaqib1/team-profile-generator.git",
+    "deployed": "https://ahmadsaqib1.github.io/team-profile-generator"
+  },
+  {
+    "imgsrc": "../assets/project3.png",
+    "title": "Work-Day Planner",
+    "text": "This is a calendar application that allows user to save events hourly of the day in order to keep track of daily routine.",
+    "gitrepo": "https://github.com/ahmadsaqib1/workday-planner.git",
+    "deployed": "https://ahmadsaqib1.github.io/workday-planner"
+  },
+  {
+    "imgsrc": "../assets/project4.png",
+    "title": "Finance",
+    "text": "This is an app for analyzing the financial records of a company.",
+    "gitrepo": "https://github.com/ahmadsaqib1/challenge4-finance.git",
+    "deployed": "https://ahmadsaqib1.github.io/challenge4-finance/"
+  },
+  {
+    "imgsrc": "../assets/project5.png",
+    "title": "Password Generator",
+    "text": "This is an app that is use to generate a random password based on criteria.",
+    "gitrepo": "https://github.com/ahmadsaqib1/password-generator.git",
+    "deployed": "https://ahmadsaqib1.github.io/password-generator"
+  },
+  {
+    "imgsrc": "../assets/project6.png",
+    "title": "ReadMe Generator",
+    "text": "It is a command-line application that dynamically generates a README file.",
+    "gitrepo": "https://github.com/ahmadsaqib1/readme-generator.git",
+    "deployed": "https://ahmadsaqib1.github.io/password-generator"
+  }
+]
+
+
