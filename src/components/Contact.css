@@ -54,3 +54,22 @@ form textarea {
   max-width: 500px;
   margin-bottom: 10px;
 }
+
+@media only screen and (max-width: 768px) {
+  .contact {
+    padding: 2rem 1rem;
+  }
+
+  .left {
+    width: 100%;
+  }
+
+  .right {
+    width: 100%;
+  }
+
+  form input,
+  form textarea {
+    max-width: 300px;
+  }
+}
