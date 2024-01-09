@@ -36,13 +36,13 @@ const Contact = () => {
           <FaGithub />
         </p>
         <p className='btn'>
-          <a href="https://linkedin.com/in/your-username" target="_blank" rel="noopener noreferrer">
+          <a href="https://uk.linkedin.com/in/ahmadsaqib1" target="_blank" rel="noopener noreferrer">
             LinkedIn
           </a>
           <FaLinkedin />
         </p>
         <p className='btn'>
-          <a href="/path/to/your/cv.pdf" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/ahmadsaqib1/resume/blob/main/AhmadSaqibCV.pdf" target="_blank" rel="noopener noreferrer">
             PDF version of CV
           </a>
           <FaFilePdf />
