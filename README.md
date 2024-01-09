@@ -22,7 +22,7 @@ The following image shows the web application's appearance and functionality:
 
 ## Website
 
-https://github.com/ahmadsaqib1/portfolio.git
+https://portfolio-ahmad-saqib.netlify.app/
 
 ## Contributions
 
