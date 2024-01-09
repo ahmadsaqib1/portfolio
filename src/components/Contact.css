@@ -55,7 +55,7 @@ form textarea {
   margin-bottom: 10px;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 740px) {
   .contact {
     padding: 2rem 1rem;
   }
