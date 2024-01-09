@@ -1,7 +1,10 @@
 import React from "react"
 
-import "./Project.css"
+import {FaGithub} from 'react-icons/fa';
+
 import { NavLink } from "react-router-dom"
+import "./Project.css"
+
 
 const Project= (props) =>{
     return (
@@ -12,7 +15,7 @@ const Project= (props) =>{
             <p>{props.text}</p>
             <div className="pro-btn">
                 <NavLink to={props.gitrepo} className="btn">
-                    Git-repo
+                    Git<FaGithub />
                 </NavLink>
                 <NavLink to={props.deployed} className="btn">
                     Deployed version

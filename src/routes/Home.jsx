@@ -7,6 +7,7 @@ return (
 <div>
     <Header/>
     <HomePage/>
+    
 </div>
 )
 }
