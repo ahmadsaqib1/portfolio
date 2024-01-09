@@ -29,10 +29,10 @@ ul {
   justify-content: center;
   padding: 10px 20px;
   font-size: 20px;
-  background-color: transparent;
+  background-color: rgb(16, 3, 43);
   color: #ebedee;
   border: 1px solid #e9eef1;
   border-radius: 5px;
   cursor: pointer;
-  width: 20%;
+  width: auto;
 }
