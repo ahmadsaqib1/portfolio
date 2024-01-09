@@ -12,13 +12,10 @@ const Projects = () => {
         </h1>
         <div className="project-container">
             {data.map((val, ind)=>{
-                //https://vitejs.dev/guide/assets#new-url-url-import-meta-url
-                const imgUrl = new URL(val.imgsrc, import.meta.url).href
-
-                return(
+                 return(
                     <Project
                     key={ind}
-                    imgsrc={imgUrl}
+                    imgsrc={val.imgsrc}
                     title={val.title}
                     text={val.text}
                     gitrepo={val.gitrepo}
